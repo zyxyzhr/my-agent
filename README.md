@@ -3,7 +3,7 @@
 > 6 lessons · pure Python stdlib · zero dependencies · ~500 lines of code
 > From raw HTTP to a production-grade agent skeleton — built by hand, not imported.
 
-**[English](README.md)** | [简体中文](README_zh.md)
+**[English](README.md)** | [简体中文](README_zh.md) · 国内镜像 / China mirror: [gitee.com/xyzyzhr/MyAgent](https://gitee.com/xyzyzhr/MyAgent)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org)

@@ -3,7 +3,7 @@
 > 6 节课 · 纯 Python 标准库 · 零依赖 · 约 500 行代码
 > 从裸 HTTP 到生产级 Agent 骨架，亲手写出来，而不是调出来。
 
-**[English](README.md)** | 简体中文
+**[English](README.md)** | 简体中文 · 国际镜像 / International mirror: [github.com/zyxyzhr/my-agent](https://github.com/zyxyzhr/my-agent)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org)
